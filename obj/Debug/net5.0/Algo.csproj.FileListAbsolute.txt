@@ -1,0 +1,16 @@
+D:\work\Algo\bin\Debug\net5.0\Algo.exe
+D:\work\Algo\bin\Debug\net5.0\Algo.deps.json
+D:\work\Algo\bin\Debug\net5.0\Algo.runtimeconfig.json
+D:\work\Algo\bin\Debug\net5.0\Algo.runtimeconfig.dev.json
+D:\work\Algo\bin\Debug\net5.0\Algo.dll
+D:\work\Algo\bin\Debug\net5.0\ref\Algo.dll
+D:\work\Algo\bin\Debug\net5.0\Algo.pdb
+D:\work\Algo\obj\Debug\net5.0\Algo.csproj.AssemblyReference.cache
+D:\work\Algo\obj\Debug\net5.0\Algo.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Algo\obj\Debug\net5.0\Algo.AssemblyInfoInputs.cache
+D:\work\Algo\obj\Debug\net5.0\Algo.AssemblyInfo.cs
+D:\work\Algo\obj\Debug\net5.0\Algo.csproj.CoreCompileInputs.cache
+D:\work\Algo\obj\Debug\net5.0\Algo.dll
+D:\work\Algo\obj\Debug\net5.0\ref\Algo.dll
+D:\work\Algo\obj\Debug\net5.0\Algo.pdb
+D:\work\Algo\obj\Debug\net5.0\Algo.genruntimeconfig.cache
